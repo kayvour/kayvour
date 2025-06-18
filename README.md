@@ -1,29 +1,33 @@
-## 🌐 Connect With Me
+<h2 align="center">🌸 Kaivalya Vaidya — Code, Design & Poetry 🌸</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/kaivalya-vaidya/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kaivalya%20Vaidya-blue?style=flat&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/zephyrsofpoetry/">
-    <img src="https://img.shields.io/badge/Instagram-@zephyrsofpoetry-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
 ---
 
-## 🛠️ My Tech Toolbox
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Stats & Activity
 
-![kayvour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kayvour&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kayvour&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" alt="ka-vour GitHub Stats" />
+</p>
