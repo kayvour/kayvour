@@ -1,64 +1,108 @@
-<h2 align="center">🌸 Kaivalya Vaidya — Code, Design & Poetry 🌸</h2>
+<div align="center">
+  
+# 🌸 Kaivalya Vaidya — Code, Design & Poetry 🌸
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaivalya-vaidya/">
-    <img src="https://img.shields.io/badge/-LinkedIn-8e9fd4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/zephyrsofpoetry/">
-    <img src="https://img.shields.io/badge/-Instagram-d98bb0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:kaivalyavaidya@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c27ba0?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://kayvour.github.io/">
-  <img src="https://img.shields.io/badge/-My_Site-242424?style=for-the-badge&logo=vercel&logoColor=white" alt="My Site">
-</a>
-</p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaivalya-vaidya/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zephyrsofpoetry/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaivalyavaidya@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kayvour.github.io/)
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+<div align="center">
 
-### 🖥️ Languages  
+## 🏮 Tech Stack 🏮
+
+</div>
+
+### 💻 Languages
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Web Development  
+</div>
+
+### 🌐 Web Development
+<div align="center">
+  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 📊 Data & Machine Learning  
+</div>
+
+### 📊 Data & Machine Learning
+<div align="center">
+  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-76B900?style=for-the-badge&logo=python&logoColor=white)
 ![TextBlob](https://img.shields.io/badge/TextBlob-3C3C3C?style=for-the-badge&logo=python&logoColor=white)
 
-### 🛢️ Databases  
+</div>
+
+### 🗄️ Databases
+<div align="center">
+  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Tools & Version Control  
+</div>
+
+### 🛠️ Tools & Version Control
+<div align="center">
+  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🎨 Design  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayvour&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayvour&layout=compact&langs_count=6&card_width=400&theme=tokyonight&border_radius=10&hide_border=false" width="48%" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=kayvour&style=for-the-badge&color=8e44ad&label=Profile+Views" alt="views" />
-</p>
+</div>
 
 ---
+
+<div align="center">
+
+## 🎋 Stats & Activity 🎋
+
+</div>
+
+<div align="center">
+  
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=kayvour&show_icons=true&theme=radical&title_color=FF6B6B&icon_color=4ECDC4&text_color=A8E6CF&bg_color=0,1a1a2e,16213e,0f3460&border_color=FF6B6B&border_radius=15&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayvour&layout=compact&langs_count=8&theme=radical&title_color=FF6B6B&text_color=A8E6CF&bg_color=0,1a1a2e,16213e,0f3460&border_color=FF6B6B&border_radius=15&hide_border=false&card_width=445" width="49%" />
+
+<div align="center">
+  
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kayvour&bg_color=1a1a2e&color=A8E6CF&line=4ECDC4&point=FF6B6B&area=true&area_color=4ECDC4&title_color=FF6B6B&custom_title=🌸%20Contribution%20Garden%20🌸" width="98%" />
+
+</div>
+
+<br>
+
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=kayvour&style=for-the-badge&color=4ECDC4&label=Visitors&labelColor=1a1a2e)](https://github.com/kayvour)
+[![Followers](https://img.shields.io/github/followers/kayvour?style=for-the-badge&color=FF6B6B&labelColor=1a1a2e&logo=github)](https://github.com/kayvour?tab=followers)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="footer" width="100%">
+</div>
