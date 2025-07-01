@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌸 Kaivalya Vaidya — Code, Design & Poetry 🌸
+# Kaivalya Vaidya — Code, Design & Poetry
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-## 🏮 Tech Stack 🏮
+## Tech Stack
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-## 🎋 Stats & Activity 🎋
+## Stats & Activity
 
 </div>
 
