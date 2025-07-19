@@ -1,6 +1,6 @@
 <div align="center">
   
-# Kaivalya Vaidya — Code, Design & Poetry
+# Kaivalya Vaidya - Code, Design & Poetry
 
 </div>
 
