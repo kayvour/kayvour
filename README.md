@@ -84,7 +84,7 @@
 
 <img src="https://github-readme-stats-dusky-nine-39.vercel.app/api?username=kayvour&show_icons=true&theme=radical&title_color=FF6B6B&icon_color=4ECDC4&text_color=A8E6CF&bg_color=0,1a1a2e,16213e,0f3460&border_color=FF6B6B&border_radius=15&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
 
-<img src="https://github-readme-stats-dusky-nine-39.vercel.app/api/top-langs/?username=kayvour&layout=compact&langs_count=8&theme=radical&title_color=FF6B6B&text_color=A8E6CF&bg_color=0,1a1a2e,16213e,0f3460&border_color=FF6B6B&border_radius=15&hide_border=false&card_width=445" width="49%" />
+<img src="https://github-readme-stats-dusky-nine-39.vercel.app/api/top-langs/?username=kayvour&layout=compact&langs_count=8&exclude_repo=learning-ml&theme=radical&title_color=FF6B6B&text_color=A8E6CF&bg_color=0,1a1a2e,16213e,0f3460&border_color=FF6B6B&border_radius=15&hide_border=false&card_width=445" width="49%" />
 
 </div>
 
