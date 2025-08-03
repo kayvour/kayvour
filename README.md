@@ -46,6 +46,7 @@
   
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-76B900?style=for-the-badge&logo=python&logoColor=white)
 ![TextBlob](https://img.shields.io/badge/TextBlob-3C3C3C?style=for-the-badge&logo=python&logoColor=white)
 
