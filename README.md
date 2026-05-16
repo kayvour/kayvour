@@ -88,6 +88,7 @@
 ![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=tor-project&logoColor=white)
 
 </div>
+
 ## Stats & Activity
 
 </div>
