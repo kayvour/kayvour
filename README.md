@@ -110,16 +110,4 @@
 <br>
 
 <div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=kayvour&style=for-the-badge&color=4ECDC4&label=Visitors&labelColor=1a1a2e)](https://github.com/kayvour)
-[![Followers](https://img.shields.io/github/followers/kayvour?style=for-the-badge&color=FF6B6B&labelColor=1a1a2e&logo=github)](https://github.com/kayvour?tab=followers)
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="footer" width="100%">
-
-</div>
