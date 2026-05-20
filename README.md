@@ -75,6 +75,15 @@
 
 </div>
 
+### 📈 SEO & Analytics
+<div align="center">
+
+![Ahrefs](https://img.shields.io/badge/Ahrefs-FF8800?style=for-the-badge&logo=ahrefs&logoColor=white)
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+
+</div>
+
 ### 🎨 Design & Tools
 <div align="center">
   
