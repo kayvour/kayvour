@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaivalya-vaidya/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zephyrsofpoetry/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaivalyavaidya.work@gmail.com)
-[![Website](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kayvour.github.io/)
+[![Portfolio](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kayvour.github.io/)
 
 </div>
 
@@ -124,13 +124,6 @@
 
 </div>
 
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kayvour&bg_color=1a1a2e&color=A8E6CF&line=4ECDC4&point=FF6B6B&area=true&area_color=4ECDC4&title_color=FF6B6B&custom_title=🌸%20Contribution%20Garden%20🌸" width="98%" />
-
-</div>
-
 <br>
 
 <div align="center">
-
